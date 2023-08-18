@@ -1,0 +1,8 @@
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConappAssign6MSS\ConappAssign6MSS\bin\Debug\ConappAssign6MSS.exe.config
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConappAssign6MSS\ConappAssign6MSS\bin\Debug\ConappAssign6MSS.exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConappAssign6MSS\ConappAssign6MSS\bin\Debug\ConappAssign6MSS.pdb
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConappAssign6MSS\ConappAssign6MSS\obj\Debug\ConappAssign6MSS.csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConappAssign6MSS\ConappAssign6MSS\obj\Debug\ConappAssign6MSS.csproj.SuggestedBindingRedirects.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConappAssign6MSS\ConappAssign6MSS\obj\Debug\ConappAssign6MSS.csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConappAssign6MSS\ConappAssign6MSS\obj\Debug\ConappAssign6MSS.exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConappAssign6MSS\ConappAssign6MSS\obj\Debug\ConappAssign6MSS.pdb
